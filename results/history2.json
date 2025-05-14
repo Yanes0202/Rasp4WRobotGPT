@@ -1,0 +1,19 @@
+[
+    {
+        "actions": [
+            "left",
+            "front",
+            "right",
+            "left",
+            "right",
+            "far_right"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "left"
+        ],
+        "found": true
+    }
+]

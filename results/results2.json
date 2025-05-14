@@ -1,0 +1,34 @@
+[
+    {
+        "actions": [
+            "left",
+            "front",
+            "right",
+            "left",
+            "right",
+            "far_right"
+        ],
+        "responsess": [
+            "The image shows a room with a cabinet on the left and a chair on the right. There is no visible book in the image.",
+            "I see a bookshelf with many books, but no clear view of the title 'World of Warcraft SYLWANA'.",
+            "Bookshelf with various books visible. No specific title readable. The previous movement was towards the left and front.",
+            "I see a closed door and a wooden cabinet. No books are visible.",
+            "I see a bookshelf with various books, but no clear title is visible. The previous movements mostly covered left and front directions.",
+            "I see a wooden cabinet with drawers on the left and a wooden door on the right. No books are visible."
+        ],
+        "steps": 7,
+        "time": "67.96s",
+        "found": true
+    },
+    {
+        "actions": [
+            "left"
+        ],
+        "responsess": [
+            "I see a wooden cabinet and a chair, but no book is visible."
+        ],
+        "steps": 2,
+        "time": "16.51s",
+        "found": true
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "steps": [
+            {
+                "action": "right",
+                "observation": "I see a chair and a cabinet, but no books are visible."
+            },
+            {
+                "action": "left",
+                "observation": "I see a wooden surface and a chair, but no books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "I see a cabinet and a chair, but no books are visible."
+            },
+            {
+                "action": "left",
+                "observation": "I see a wooden cabinet with several drawers, but no books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "I see a bookcase filled with books."
+            },
+            {
+                "action": "right",
+                "observation": "I see a bookcase with several books."
+            },
+            {
+                "action": "front",
+                "observation": "I see a bookcase on the left filled with books."
+            },
+            {
+                "action": "left",
+                "observation": "I see a wooden surface and cabinets, but no books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "I see a wooden cabinet with drawers in front of me."
+            },
+            {
+                "action": "front",
+                "observation": "I see a bookcase with books visible."
+            },
+            {
+                "action": "front",
+                "observation": "I see a wooden cabinet with drawers."
+            },
+            {
+                "action": "back",
+                "observation": "I see a wooden cabinet with a drawer."
+            },
+            {
+                "action": "back",
+                "observation": "I see a wooden cabinet with drawers."
+            }
+        ],
+        "found": true
+    },
+    {
+        "steps": [
+            {
+                "action": "front",
+                "observation": "I see a cabinet and a chair, but no books are visible."
+            },
+            {
+                "action": "left",
+                "observation": "I see a chair and a cabinet, but no books are visible."
+            }
+        ],
+        "found": true
+    },
+    {
+        "steps": [
+            {
+                "action": "right",
+                "observation": "I see a chair and a cabinet, but no books are visible."
+            },
+            {
+                "action": "left",
+                "observation": "I see a chair and a wooden surface, no books are visible."
+            },
+            {
+                "action": "left",
+                "observation": "I see a cabinet directly in front and books on a bookcase to the left."
+            },
+            {
+                "action": "right",
+                "observation": "I see books on a bookcase in the distance on the right."
+            },
+            {
+                "action": "front",
+                "observation": "I see a bookcase filled with books directly ahead."
+            }
+        ],
+        "found": true
+    },
+    {
+        "steps": [
+            {
+                "action": "left",
+                "observation": "I see a wooden cabinet on the left and a chair on the right, but no books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "I see a bookcase with many books."
+            }
+        ],
+        "found": true
+    }
+]

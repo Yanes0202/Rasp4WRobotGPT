@@ -1,0 +1,244 @@
+[
+    {
+        "actions": [
+            "left",
+            "right"
+        ],
+        "responsess": [
+            "I see a wooden cabinet with closed drawers and a partially open door to the right.",
+            "I see a dresser with drawers and some objects on the floor. No books visible."
+        ],
+        "steps": 2,
+        "time": "27.67s",
+        "found": false
+    },
+    {
+        "actions": [
+            "front",
+            "right",
+            "front",
+            "front",
+            "right",
+            "right",
+            "front",
+            "front",
+            "right",
+            "left",
+            "front",
+            "front",
+            "front",
+            "right",
+            "left",
+            "front",
+            "front",
+            "left",
+            "right",
+            "front"
+        ],
+        "responsess": [
+            "I see a wooden cabinet and a door. No books visible.",
+            "I see a wooden cabinet or dresser with drawers and a rug on the floor. No books are visible.",
+            "The image shows a wooden floor and a partial view of a cupboard and a door.",
+            "The image shows a wooden surface with no visible books.",
+            "I see a wooden piece of furniture and a wall with no books visible.",
+            "I see a hallway or corner with low light; no books visible.",
+            "The image shows a dimly lit corridor with a door slightly ajar.",
+            "The image shows a dark room with a door partially open, leading to a dimly lit space with a radiator and objects that aren't clearly visible.",
+            "The image shows a dark room with a door and a shelf, but no books are visible.",
+            "The image is dark, showing a tiled floor and a radiator. It's difficult to see any books or bookshelves clearly.",
+            "The image is dark and appears to show part of a room with a door and possibly a radiator. No books are visible.",
+            "The image is dark and does not show any books or details indicating the presence of the target book.",
+            "The image is dark with a portion of a wall and a door visible.",
+            "The image shows a dark room corner with a power outlet and a red object leaning against the wall.",
+            "It's a dark image with a wall and an electrical socket.",
+            "The image is dark and shows a partially visible door and a wall with a switch. No books are visible.",
+            "The image shows a partially open door and a power outlet on the wall next to it. There is a cable on the floor leading towards the door.",
+            "The image is too dark to see any books or identify surroundings clearly.",
+            "The image is too dark to discern details beyond some outlines that may suggest furniture or a door.",
+            "The image is too dark to see any details clearly."
+        ],
+        "steps": 20,
+        "time": "285.5s",
+        "found": false
+    },
+    {
+        "actions": [
+            "front",
+            "right",
+            "left",
+            "right",
+            "back",
+            "right",
+            "left",
+            "right",
+            "front",
+            "left",
+            "left",
+            "right",
+            "right",
+            "left",
+            "left",
+            "right",
+            "left",
+            "front",
+            "back",
+            "front"
+        ],
+        "responsess": [
+            "The image shows a wooden cabinet with multiple drawers and a wooden door on the right.",
+            "Image shows a dresser with drawers and a rug on the floor.",
+            "I see a door on the right side and part of a wooden cabinet/shelf on the left. No books are visible.",
+            "The image shows part of a wooden dresser and a corner of a carpet on the floor. No books are visible.",
+            "I see a door and part of a cabinet on the left. This seems to be a dead end with no books visible.",
+            "The image shows a door, part of a cabinet, and an electrical strip on the floor. No books are visible.",
+            "I see a wooden door and some objects near the wall, possibly a power strip.",
+            "The image shows a wooden door, some electrical cords and a power strip on the floor to the right. There's no visible bookshelf or books.",
+            "The image shows a door and some electrical equipment on the floor.",
+            "I see a door and some tools; no books are visible.",
+            "The image shows a wooden door and part of a cabinet on the left side.",
+            "I see a drawer set and a dark shadow on the floor. There's no book visible.",
+            "I see a door and a corner of a room, no books visible.",
+            "I see a door and a power outlet on the wall.",
+            "I see a wooden door and part of a wall, no books in sight.",
+            "I see a wooden surface and part of a cabinet. No books visible.",
+            "The image shows a wooden door and part of a wall. No books are visible.",
+            "The image shows a wooden floor with part of a wooden cabinet or box on the left and a door on the right.",
+            "The image shows a corner with a wooden texture on the left and a plain wall on the right. There is no indication of books or shelves.",
+            "I see a wooden floor and part of a wooden cabinet or door. There's no sign of any books in this image."
+        ],
+        "steps": 20,
+        "time": "285.3s",
+        "found": false
+    },
+    {
+        "actions": [
+            "left",
+            "front",
+            "right",
+            "left",
+            "right",
+            "right",
+            "left",
+            "right",
+            "left",
+            "front",
+            "right",
+            "front",
+            "right",
+            "right",
+            "back",
+            "right",
+            "right",
+            "front"
+        ],
+        "responsess": [
+            "I see a room with a wooden floor, a closed wooden door, a dresser on the left, and an extension cord on the right. No books or shelves are visible.",
+            "I see a wooden cabinet with drawers and a bag on the floor. There is no sign of books in the image.",
+            "I see a dresser and a bag but no books are visible.",
+            "Image shows a wooden floor and wooden door. No books visible.",
+            "I see a cabinet with drawers and a bag on the floor. No books are visible.",
+            "I see a wooden cupboard and part of a door, but no books are visible.",
+            "The image shows a closed wooden door with the surrounding floor and part of a cabinet visible. There are some wires on the floor but no books are visible.",
+            "I see a wooden texture with some drawers on the left side and a door on the right.",
+            "The image shows a portion of a wooden cabinet and a door.",
+            "I see a wooden cabinet with drawers. The target book is not visible.",
+            "I see a wooden cabinet with some text but no books.",
+            "I see a wooden door and a cabinet on the left.",
+            "I see a wooden texture and a wall, likely a corner or edge of furniture.",
+            "The image shows a wooden door and a wall corner; no books are visible.",
+            "I see a wooden door and part of a wall.",
+            "I see a wooden door and the corner of a wooden piece of furniture. No books visible.",
+            "I see a glue gun and some cables on the floor.",
+            "I see the book titled 'World of Warcraft SYLWANA' on the floor near the furniture."
+        ],
+        "steps": 18,
+        "time": "269.92s",
+        "found": true
+    },
+    {
+        "actions": [
+            "right",
+            "left",
+            "right",
+            "front",
+            "left",
+            "back",
+            "right",
+            "right",
+            "right",
+            "back",
+            "back",
+            "left",
+            "left",
+            "back",
+            "right",
+            "right",
+            "none"
+        ],
+        "responsess": [
+            "I see a set of drawers and a wooden surface in the background.",
+            "Image shows the lower part of a room with a power strip and a desk chair. No books visible.",
+            "I see a set of drawers against a wall. There is no book visible in this image.",
+            "I see a door and a power strip on the floor.",
+            "The image shows a door and a wall socket. There is no book visible.",
+            "I see wooden drawers with handles in a low-lit room. No book is visible.",
+            "I see a wooden cabinet with drawers, but no books are visible.",
+            "I see a door and an electrical outlet on a wall.",
+            "The image shows a wall or a piece of furniture with electric cables beside it. There's no visible book.",
+            "I see cables and part of furniture, possibly indicating a wall corner or behind a desk.",
+            "I see a power strip with cables on the floor next to a table leg.",
+            "I see a power strip with some cables on a wooden floor next to a desk and a chair.",
+            "I see a wooden door and a wall socket with a plug. The image suggests an interior space, possibly a hallway or room corner.",
+            "The image shows a wooden surface, possibly part of furniture or a shelf. No books are visible.",
+            "I see a wooden surface and a shadow, possibly indicating a shelf or furniture side.",
+            "The image shows a corner of a room with a door, an electrical outlet, and some cables plugged into a power strip on the floor.",
+            "I see the book 'World of Warcraft: SYLWANA'."
+        ],
+        "steps": 17,
+        "time": "270.05s",
+        "found": true
+    },
+    {
+        "actions": [
+            "right",
+            "front"
+        ],
+        "responsess": [
+            "I see a dresser and a door. The book is not visible.",
+            "The image shows a decorative object with the Eiffel Tower on it. There is no visible sign of a book with the title 'World of Warcraft SYLWANA'."
+        ],
+        "steps": 2,
+        "time": "33.43s",
+        "found": true
+    },
+    {
+        "actions": [
+            "front",
+            "right",
+            "right",
+            "none"
+        ],
+        "responsess": [
+            "I see a wooden floor and a cabinet in the background.",
+            "The image shows a wooden cabinet with drawers on a wooden floor. No books are visible.",
+            "The image shows a corner of a room with an electrical outlet, some cables, and the wheels of a chair.",
+            "The book 'World of Warcraft SYLWANA' is in view."
+        ],
+        "steps": 4,
+        "time": "73.5s",
+        "found": true
+    },
+    {
+        "actions": [
+            "right",
+            "right"
+        ],
+        "responsess": [
+            "The image shows a room with a wooden cabinet on the left and a door in the center. There is a chair on the right.",
+            "The image shows a wooden surface with faint and possibly reversed text."
+        ],
+        "steps": 3,
+        "time": "28.05s",
+        "found": true
+    }
+]

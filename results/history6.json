@@ -1,0 +1,950 @@
+[
+    {
+        "steps": [
+            {
+                "action": "front",
+                "observation": "The image shows a room with a wooden floor, a wooden door in the background, a cabinet on the left, and a chair on the right. No books are visible in this image."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "right",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "Shelves with numerous books visible in the background. The titles are not clearly readable from this distance."
+            },
+            {
+                "action": "front",
+                "observation": "Shelves containing numerous books are visible. The titles are somewhat readable, but the target book 'World of Warcraft SYLWANA' has not been identified yet."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a close-up view of wooden drawers. Above the drawers, a row of books is visible in the background, although the titles are not clearly readable."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up view of wooden drawers with metal handles. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a close-up of wooden drawers with metal handles. There is a row of books above the drawers, with some titles visible. The target book 'World of Warcraft SYLWANA' is not clearly identified."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up of wooden drawers with metal handles. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "Close-up of wooden drawers with metal handles. A row of books is visible above the drawers. The titles are more readable, but the target book 'World of Warcraft SYLWANA' is not clearly identified yet."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up view of wooden drawers with metal handles. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "Close-up of wooden drawers with metal handles. A row of books is visible above the drawers with some titles readable. The book 'World of Warcraft SYLWANA' is visible but still not very clear."
+            },
+            {
+                "action": "front",
+                "observation": "Close-up view of wooden drawers with metal handles. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a close-up view of a wooden surface. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "Close-up view of wooden drawers with metal handles. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up view of a wooden surface. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up of wooden drawers with metal handles. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "Close-up of wooden drawers with metal handles. A row of books is visible above the drawers, with some titles visible but the target book 'World of Warcraft SYLWANA' is not clearly identified."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up view of wooden drawers with metal handles. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "Close-up of wooden drawers with metal handles. A row of books is visible above the drawers, with the titles more readable including one that might be 'World of Warcraft SYLWANA'."
+            }
+        ],
+        "found": false
+    },
+    {
+        "steps": [
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "Wooden floor, wooden door, cabinet on the left, chair wheel on the right. No books visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door, and part of a cabinet on the left. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door, and a cabinet partly visible on the left. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door, and a cabinet visible on the left. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door, and part of a cabinet on the left. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "Bookshelves with many books are visible. The titles are readable. Looking for 'World of Warcraft SYLWANA'."
+            },
+            {
+                "action": "front",
+                "observation": "A row of books is visible above the wooden drawers. Titles appear to be more readable."
+            },
+            {
+                "action": "front",
+                "observation": "Close-up view of wooden drawers with metal handles. A row of books is visible above the drawers, with titles more readable. The sections of the books are clearly visible, making it easier to locate 'World of Warcraft SYLWANA'."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up of wooden drawers with metal handles. No books visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor and wooden drawers with metal handles. Above the drawers, a row of books is visible on a bookshelf. Some book spines are colorful with partial titles visible but 'World of Warcraft SYLWANA' is not clearly readable."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up of wooden drawers with metal handles. No books are visible in this image."
+            },
+            {
+                "action": "front",
+                "observation": "Close-up view of wooden drawers with metal handles. Above the drawers, a row of books is visible with titles more readable."
+            },
+            {
+                "action": "front",
+                "observation": "Close-up view of wooden drawers with metal handles. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up of wooden drawers with metal handles. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up of wooden drawers with metal handles. No books are visible in this image."
+            },
+            {
+                "action": "front",
+                "observation": "Close-up of wooden drawers with metal handles. No books are visible in this image."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up of a wooden drawer with metal handles. No books visible."
+            },
+            {
+                "action": "front",
+                "observation": "A close-up view of wooden drawers with metal handles on a wooden floor. No books are visible in this image."
+            },
+            {
+                "action": "back",
+                "observation": "Close-up view of a wooden drawer with metal handles. No books are visible."
+            }
+        ],
+        "found": false
+    },
+    {
+        "steps": [
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor and a computer tower with lights in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels and a computer tower with lights. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor and a computer tower with lights. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor and a computer tower with lights. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible in the background. No books or bookshelves are visible."
+            }
+        ],
+        "found": false
+    },
+    {
+        "steps": [
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair on the right. No books are visible in this image."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door, and a cabinet on the left. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door on the right, and part of a wooden cabinet on the left. No books are visible in this image."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a corner of a room with a wooden floor, a wooden door on the right, and a wooden cabinet on the left. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a close-up view of wooden drawers with books visible on a shelf above. The titles are somewhat readable."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor with wooden drawers on the right. Part of a bookshelf with visible book spines is in the upper right corner."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a computer tower with lights on the left, and wooden drawers on the right. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor, a printer on a small table, and part of a wooden cabinet with drawers. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a printer on a small table, and part of a wooden cabinet with drawers. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor, a printer on a small table, and part of a wooden cabinet with drawers. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a printer on a small table, and part of a wooden cabinet with drawers. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a chair with wheels on a wooden floor and part of a wooden cabinet. A trash can with an Eiffel Tower design is also visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair with wheels on a wooden floor and a trash can with an Eiffel Tower design. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair with wheels on a wooden floor and a trash can with an Eiffel Tower design. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair with wheels on a wooden floor and a trash can with an Eiffel Tower design. No books or bookshelves are visible."
+            },
+            {
+                "action": "finish",
+                "observation": "The image shows a close-up view of a chair with wheels on a wooden floor. To the right, there's a visible book titled 'World of Warcraft SYLWANA', partially obscured but recognizable."
+            }
+        ],
+        "found": true
+    },
+    {
+        "steps": [
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor, and some cables in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wall with a cable hanging and a wooden floor. There is no sign of any books or bookshelves."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a section of a wall with cables hanging and a wooden floor. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair wheel on a wooden floor with some cables visible in the background. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a chair with wheels on a wooden floor, some cables, and a partial view of a computer tower with lights. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair wheel on a wooden floor, with some cables visible against the wall. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor, and a computer tower with green lights. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a chair wheel on a wooden floor with some cables visible against the wall. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wall with some cables and a wooden floor. There are no books or bookshelves visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the wheel of a chair on a wooden floor, and there are cables visible against the wall. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wall with cables and the floor. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a chair wheel on a wooden floor with some cables visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a section of a wall with cables hanging and a wooden floor. There are no books or bookshelves visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair wheel on a wooden floor and some cables against the wall. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair wheel on a wooden floor and some cables against the wall. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor and a computer tower with a light. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A cabinet is visible on the right with books on the top shelf. The titles are not clear."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor, and a computer tower with lights. No books are visible."
+            }
+        ],
+        "found": false
+    },
+    {
+        "steps": [
+            {
+                "action": "front",
+                "observation": "The image shows a room with a wooden floor, a wooden door in the background, a cabinet on the left, and a chair on the right. No books are visible in this image."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door, and part of a cabinet on the left. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor with a wooden cabinet on the right. On the left, there is a shelf with multiple books. Some titles are visible but not clearly readable. The book 'World of Warcraft SYLWANA' is not clearly identified."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a section of a wooden floor with two wooden cabinets on either side. On the left, there are some books visible on a shelf, but the titles are not clearly readable."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor with two wooden cabinets on either side. On the left, there are books visible in a shelf, but the titles are not clearly readable."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor and a corner with a small trash bin. No books or bookshelves are visible in this image."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor with a black trash bin and a cable on the right. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor with a black trash bin and a cable on the right. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor with a black trash bin against the wall. There are wooden cabinets on either side. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "Several books are visible on a shelf to the left, but the titles are not readable. No clear view of the target book 'World of Warcraft SYLWANA'."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor, a black trash bin against the wall, and wooden cabinets on either side. The left side shows part of a bookshelf, but no book titles are clearly visible."
+            },
+            {
+                "action": "front",
+                "observation": "Books are visible on a shelf to the left, but titles are not clearly readable. A black trash bin is in the background."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a black trash bin against the wall, and wooden cabinets on either side. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor with a black trash bin against the wall and part of a wooden cabinet on the right. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor with a black trash bin against the wall and wooden cabinets on either side. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor with a wooden cabinet on the right and a row of books visible on the left. The book titles are not clearly readable."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor, a black trash bin against the wall, and wooden cabinets on either side. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a section of a wooden floor with wooden cabinets on the right. On the left, there is a bookshelf with several books visible. The titles on the books are not clearly readable. A black trash bin is visible in the background."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor with a black trash bin against the wall and wooden cabinets on either side. No books or bookshelves are visible."
+            }
+        ],
+        "found": false
+    },
+    {
+        "steps": [
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door in the background, a cabinet on the left, and a chair on the right. No books are visible in this image."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image is dark and shows part of a wooden surface. There is no visible book or text to identify."
+            },
+            {
+                "action": "back",
+                "observation": "The image is dark and shows part of a wooden surface. There is no visible book or text to identify."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels next to a wooden surface. There are no books visible in this image."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor and part of a dark piece of furniture, possibly a cabinet or desk. There appears to be a chair wheel on the left. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor and part of a cabinet with a chair nearby. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels next to a wooden surface. There are no books visible in this image."
+            }
+        ],
+        "found": false
+    },
+    {
+        "steps": [
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door in the background, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door in the background, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door, and a wooden cabinet on the left. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a cabinet on the left, and a wooden door on the right. No books are visible."
+            },
+            {
+                "action": "finish",
+                "observation": "The image shows the book 'World of Warcraft SYLWANA' on the floor next to a wooden table leg. The book cover is clearly visible and easily readable."
+            }
+        ],
+        "found": true
+    },
+    {
+        "steps": [
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door in the background, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor, and a computer tower with green lights. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a trash can or cylindrical object with an image of the Eiffel Tower and the Arc de Triomphe. There are no books visible in this image."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair wheel on a wooden floor next to a trash can with an Eiffel Tower design. No books visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair wheel on a wooden floor next to a trash can with an Eiffel Tower design. No books are visible."
+            },
+            {
+                "action": "far_right",
+                "observation": "The image shows a wooden floor, a chair with wheels, and a trash can with an Eiffel Tower design. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a computer tower with lights, a printer on a stand, and a wooden floor. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor and a computer tower with colorful lights. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a chair with wheels, a computer tower with lights, and part of some cabinets. No books are clearly visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a wooden floor, the base of a chair, a computer tower with lights, and a printer on a small table. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, the wheel of a chair, a computer tower with colorful lights, and a printer on a small table. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair wheel on a wooden floor. There is a trash can with an Eiffel Tower design nearby. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a chair with wheels on a wooden floor and a trash can with an Eiffel Tower design. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair wheel on a wooden floor with a trash can featuring an Eiffel Tower design. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair with wheels on a wooden floor and a trash can with an Eiffel Tower design. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A trash can with an Eiffel Tower design is visible under a desk. No books are visible."
+            }
+        ],
+        "found": false
+    },
+    {
+        "steps": [
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door in the background, a cabinet on the left, and a chair wheel on the right. No books are visible in this image."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor, and a computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor, and a computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. In the background, there's a computer tower with lights. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is in the background. In the upper right, there is a bookshelf with several books visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a computer tower with colorful lights under a desk. A chair with wheels is on a wooden floor. In the background, there is a wooden cabinet with drawers and a bookshelf with some books visible. The titles on the books are not clearly readable from this angle."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. There is a cabinet with drawers in the background. Part of a bookshelf with books is visible on the right, but the titles are not clearly readable."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with green and colorful lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "An image showing the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. To the right, there is a cabinet or set of drawers and a bookshelf with books visible. Some titles are readable but the specific book 'World of Warcraft SYLWANA' isn't clearly identified."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. There's a computer tower with colorful lights visible. No books or bookshelves are visible."
+            }
+        ],
+        "found": false
+    },
+    {
+        "steps": [
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door in the background, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a wooden floor, a wooden door in the background, a cabinet on the left, and a chair wheel on the right. No books are visible."
+            },
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door on the right, and part of a wooden cabinet on the left. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor, and a computer tower with colorful lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a room with a wooden floor, a computer tower with lights, and a chair with wheels. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colored lights is visible. No bookshelves or books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower is visible in the background with blue and red lights. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a chair wheel on a wooden floor, and there are cables visible against the wall. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a section of a wall with cables hanging and a floor edge. A part of a chair wheel is visible at the bottom. No books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible in the background. No books are visible."
+            }
+        ],
+        "found": false
+    },
+    {
+        "steps": [
+            {
+                "action": "far_left",
+                "observation": "The image shows a wooden floor, a wooden door, a cabinet on the left, and a chair on the right. No books are visible in this image."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with lights is visible. In the background, there is a bookshelf with books visible, but no titles are clearly readable."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a chair wheel on a wooden floor, a computer tower with colorful lights on the left, and part of a cabinet with text on the right. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. In the background, there is a cabinet with drawers and part of a bookshelf with books visible on the upper part. The titles are not clearly readable from this angle."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows part of a chair wheel on a wooden floor, with a computer tower featuring colorful lights. A cabinet with text is visible in the background. No books are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows a section of a room with a wooden floor. It features the base of a chair with wheels and a computer tower with colorful lights in the background. There are some wooden cabinets on the right, but no books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colored lights is visible. In the background, there is a wooden cabinet with drawers and a partially visible bookshelf. Some books are visible on the upper shelf, but the titles are not clearly readable from this angle."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a chair with wheels on a wooden floor, a computer tower with lights, and part of a cabinet with books visible on a bookshelf above the cabinet. The book titles are not clear from this distance."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. In the background, there's a cabinet with text, but no books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows a chair wheel on a wooden floor. In the background, there is a cabinet with drawers and a computer tower to the left. Book spines are visible on a shelf above the cabinet."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. There is wooden furniture in the background, but no books or bookshelves are visible."
+            },
+            {
+                "action": "back",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. In the background, there is a cabinet with drawers. No books or bookshelves are visible."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. There is a computer tower with colorful lights in the background. Part of a cabinet with drawers is visible, with books visible on a shelf above. The titles aren't clearly readable, including 'World of Warcraft SYLWANA'."
+            },
+            {
+                "action": "front",
+                "observation": "The image shows the base of a chair with wheels on a wooden floor. A computer tower with colorful lights is visible. No books are visible."
+            }
+        ],
+        "found": false
+    }
+]

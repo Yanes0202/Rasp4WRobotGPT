@@ -1,0 +1,127 @@
+[
+    {
+        "actions": [
+            "left",
+            "right"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "front",
+            "right",
+            "front",
+            "front",
+            "right",
+            "right",
+            "front",
+            "front",
+            "right",
+            "left",
+            "front",
+            "front",
+            "front",
+            "right",
+            "left",
+            "front",
+            "front",
+            "left",
+            "right",
+            "front"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "front",
+            "right",
+            "left",
+            "right",
+            "back",
+            "right",
+            "left",
+            "right",
+            "front",
+            "left",
+            "left",
+            "right",
+            "right",
+            "left",
+            "left",
+            "right",
+            "left",
+            "front",
+            "back",
+            "front"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "left",
+            "front",
+            "right",
+            "left",
+            "right",
+            "right",
+            "left",
+            "right",
+            "left",
+            "front",
+            "right",
+            "front",
+            "right",
+            "right",
+            "back",
+            "right",
+            "right",
+            "front"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "right",
+            "left",
+            "right",
+            "front",
+            "left",
+            "back",
+            "right",
+            "right",
+            "right",
+            "back",
+            "back",
+            "left",
+            "left",
+            "back",
+            "right",
+            "right",
+            "none"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "right",
+            "front"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "front",
+            "right",
+            "right",
+            "none"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "right",
+            "right"
+        ],
+        "found": true
+    }
+]

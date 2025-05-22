@@ -13,17 +13,17 @@ motorAll = PiMotor.LinkedMotors(m1, m2, m3, m4)
 
 def execute_action(action):
     match action:
-        case "front":
+        case "f":
             front()
-        case "right":
+        case "r":
             right()
-        case "far_right":
+        case "fr":
             far_right()
-        case "left":
+        case "l":
             left()
-        case "far_left":
+        case "fl":
             far_left()
-        case "back":
+        case "b":
             back()
         case _:
             print("Nieznana komenda:", action)
@@ -65,7 +65,7 @@ def far_left():
         m4.forward(50)
         m3.reverse(20)
         m1.reverse(20)
-        time.sleep(1.5)
+        time.sleep(1.1)
         motorAll.stop()
     except KeyboardInterrupt:
         GPIO.cleanup()
@@ -89,7 +89,7 @@ def far_right():
         m3.forward(50)
         m4.reverse(20)
         m2.reverse(20)
-        time.sleep(1.5)
+        time.sleep(1.1)
         motorAll.stop()
     except KeyboardInterrupt:
         GPIO.cleanup()

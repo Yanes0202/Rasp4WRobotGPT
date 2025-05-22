@@ -5,10 +5,13 @@ from file_actions import load, save
 from capture import get_image
 from Pilot.controls import execute_action
 from ai import analyze_image
+from compression import compress
 
-TRY = "6"
+TRY = "8"
 HISTORY_FILE = "results/history" + TRY + ".json"
 RESULTS_FILE = "results/results" + TRY + ".json"
+
+LAST_DESCRIPTION = ""
 
 if __name__ == "__main__":
     start_time = time.time()
@@ -25,7 +28,7 @@ if __name__ == "__main__":
 
         current_history = full_history.copy()
         current_history.append(history_session)
-        response = analyze_image(image, current_history)
+        response = analyze_image(image, current_history, LAST_DESCRIPTION)
         try:
             print(response)
             response_cleaned = response.strip().replace('```json', '').replace('```', '').replace('\n', '')
@@ -33,7 +36,7 @@ if __name__ == "__main__":
 
             action = response_json.get("action")
             description = response_json.get("description", "")
-
+            LAST_DESCRIPTION = description
             print("Opis:", description)
             print("Dzialanie:", action)
                 

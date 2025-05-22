@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-def analyze_image(image_data, history):
+def analyze_image(image_data, history, last_description):
     API_KEY = os.getenv("GPT_API_KEY")
     client = OpenAI(api_key=API_KEY)
 
@@ -18,11 +18,11 @@ def analyze_image(image_data, history):
             messages=[
                 {
                     "role": "system",
-                    "content": """Respond ONLY in JSON format:{"description": "What you see (e.g. books, distance to book, any useful observations)", "action": "one of the available actions"}. You control a robot that must find and get as close as possible to a book titled 'World of Warcraft SYLWANA'. Your ONLY goal is to LOCATE and MOVE AS CLOSE AS POSSIBLE to this specific book. Use 'finish' ONLY if the book is clearly readable and VERY close. Available commands: "front", "back", "left", "far_left", "right", "far_right", "finish". You have 20 steps per session. Use them strategically.""",
+                    "content": """Respond ONLY in JSON format:{"description": "What you see(e.g. books, distance to book, any useful observations)", "action": "one of the available actions"}. Use ONLY this commands: "f"(front), "b"(back), "l"(left approx. 45), "fl"(far_left approx. 90), "r"(right), "fr"(far_right), "finish". You control a robot, your only goal is to look around to FIND and GET AS CLOSE AS POSSIBLE to a book titled 'World of Warcraft SYLWANA'. Use 'finish' ONLY if the book is clearly readable and VERY close.""",
                 },
                 {
                     "role": "user",
-                    "content": f"Below is the full movement history. Use this context to avoid repeating inefficient paths and to locate the target book more effectively. {json.dumps(history, indent=2)}"
+                    "content": f"Here is description of image one move before: {last_description}. Below is the compressed movement history. {json.dumps(history, indent=2)}. Be smart and use this context to locate the target book in the shortest way possible."
                 },
                 {
                     "role": "user",

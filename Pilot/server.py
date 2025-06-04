@@ -1,5 +1,5 @@
 from flask import Flask, request
-import subprocess
+from controls import execute_action
 
 app = Flask(__name__)
 
@@ -7,8 +7,8 @@ app = Flask(__name__)
 def move():
     direction = request.form.get("direction")
     
-    if direction in ["front", "back", "left", "right"]:
-        subprocess.run(["python3", f"{direction}.py"])
+    if direction in ["f", "b", "l", "r"]:
+        execute_action(direction)
         return f"Executed {direction}", 200
     else:
         return "Invalid command", 400

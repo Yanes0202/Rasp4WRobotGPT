@@ -1,0 +1,159 @@
+[
+    {
+        "actions": [
+            "r",
+            "fl",
+            "f",
+            "f",
+            "f",
+            "f",
+            "l",
+            "r",
+            "fr",
+            "fr",
+            "f",
+            "r",
+            "r",
+            "fl",
+            "l",
+            "fl",
+            "f",
+            "f",
+            "r",
+            "fl"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "r",
+            "fl",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "r",
+            "fl",
+            "r",
+            "r",
+            "b",
+            "fl",
+            "fl",
+            "r",
+            "f",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "f",
+            "f",
+            "fr",
+            "fr",
+            "r",
+            "f",
+            "f",
+            "fr",
+            "fr",
+            "fr",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "fr",
+            "r",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "r",
+            "f",
+            "fr",
+            "b",
+            "l",
+            "fl",
+            "l",
+            "f",
+            "f",
+            "f",
+            "r",
+            "f",
+            "b",
+            "f",
+            "b",
+            "f",
+            "r",
+            "r",
+            "fr",
+            "l"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "f",
+            "f",
+            "r",
+            "r",
+            "r",
+            "r",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "r",
+            "r",
+            "r",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "l",
+            "f",
+            "f",
+            "f",
+            "r",
+            "r",
+            "r",
+            "r",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "fl",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "r",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "r",
+            "r"
+        ],
+        "found": false
+    }
+]

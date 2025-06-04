@@ -22,7 +22,7 @@ def take_picture(try_number):
             "--autofocus-mode", "manual",
             "--awb", "indoor",
             "-o", image_path
-        ], check=True)
+        ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
         return image_path
 

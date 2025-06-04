@@ -4,10 +4,9 @@ import time
 from file_actions import load, save
 from capture import get_image
 from Pilot.controls import execute_action
-from ai import analyze_image
-from compression import compress
+from ai import analyze_image, decide_action
 
-TRY = "8"
+TRY = "12"
 HISTORY_FILE = "results/history" + TRY + ".json"
 RESULTS_FILE = "results/results" + TRY + ".json"
 
@@ -18,7 +17,7 @@ if __name__ == "__main__":
     full_history = load(HISTORY_FILE)
     full_result = load(RESULTS_FILE)
     history_session = {"actions": [], "found": False}
-    result_session = {"actions":[], "responsess": [], "steps": 1, "time": "", "found": False}
+    result_session = {"actions":[], "responsess": [], "reason": [],"steps": 1, "time": "", "found": False}
 
     i = 0
     for i in range(20):
@@ -28,21 +27,24 @@ if __name__ == "__main__":
 
         current_history = full_history.copy()
         current_history.append(history_session)
-        response = analyze_image(image, current_history, LAST_DESCRIPTION)
+        image_description = analyze_image(image)
+        response = decide_action(image_description, current_history, LAST_DESCRIPTION)
         try:
             print(response)
             response_cleaned = response.strip().replace('```json', '').replace('```', '').replace('\n', '')
             response_json = json.loads(response_cleaned)
 
             action = response_json.get("action")
-            description = response_json.get("description", "")
-            LAST_DESCRIPTION = description
-            print("Opis:", description)
+            reason = response_json.get("reason")
+            LAST_DESCRIPTION = image_description
+            print("Opis:", image_description)
             print("Dzialanie:", action)
+            print("Powód: ", reason)
                 
             history_session["actions"].append(action)
             result_session["actions"].append(action)
-            result_session["responsess"].append(description)
+            result_session["responsess"].append(image_description)
+            result_session["reason"].append(reason)
             
             if action == 'finish':
                 print("Znaleziono ksiazke")

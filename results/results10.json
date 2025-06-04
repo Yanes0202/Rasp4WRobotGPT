@@ -1,0 +1,166 @@
+[
+    {
+        "actions": [
+            "r",
+            "l",
+            "l",
+            "f",
+            "l",
+            "l",
+            "fl",
+            "fl",
+            "fr",
+            "fl",
+            "l",
+            "l",
+            "b",
+            "r",
+            "f",
+            "f",
+            "r",
+            "r",
+            "fr",
+            "fr"
+        ],
+        "responsess": [
+            "The image shows a wooden floor, a chair with wheels, a cabinet on the left, and a wooden door in the background. On the right side, there appears to be the edge of a tall vertical object, possibly a bookshelf. No books are clearly visible from this angle.",
+            "Close-up view of a wooden panel or side of furniture, text is slightly visible but not readable, no books or bookshelf visible in this frame.",
+            "Low-angle view of a wooden cabinet on the left, office chair leg to the right, and a wooden door in the background. No bookshelf or visible books in this frame. The cabinet on the left might be worth investigating if it has books on top or inside.",
+            "Bookshelf on the left side packed with books. The title 'World of Warcraft SYLWANA' is visible on a book in the bottom row of the shelf, center-left position, partially readable but not very close.",
+            "Bookshelf on the left side with several books visible, including the target book 'World of Warcraft SYLWANA' in the bottom row, center-left. The book is readable but still not very close. Wooden drawers in the foreground.",
+            "Wooden drawers dominate the view, bookshelf is not clearly visible. Likely moved too much to the right; need to adjust left to regain view of bookshelf and target book.",
+            "View under a desk or table, showing chair legs, cables, and floor; no books or bookshelf visible. Confirmed overshooting to the right from prior moves.",
+            "View of the side of a wooden cabinet or drawer, with part of a chair and floor visible. No books or bookshelf in sight. Likely still under or next to a desk. Need to change direction to relocate bookshelf area.",
+            "Straight-on view of a wooden cabinet with drawers. No books or bookshelves are visible here. There is empty floor space. Need to reorient to search for bookshelves.",
+            "A partial view of a desk/chair leg and a wall socket, with a wooden door and some floor space. No bookshelves or books are visible. Given the previous orientation history, it's likely that bookshelves are toward the back or left, out of the current field of view.",
+            "There is a bookshelf to the left with multiple books, but titles are not clearly readable from this distance. The target book 'World of Warcraft SYLWANA' might be on this shelf. Moving closer would help to read book titles.",
+            "Bookshelf with books visible in the upper section to the right. Some book titles are readable but the target book 'World of Warcraft SYLWANA' is not immediately visible. The shelf on the left side of the image could have more books that are not clearly visible due to angle and distance.",
+            "I see the lower part of a desk, a rolling office chair, a desktop computer with RGB lighting, and a piece of furniture to the right. No bookshelf or visible books in this image.",
+            "Bookshelf visible in the upper right corner of the image with books present, but not close enough to read titles. The desk, office chair, and a wooden storage unit occupy the foreground. The target area seems to be the bookshelf in the back right.",
+            "Bookshelf is in clear view at medium distance. On the right side of the bottom shelf, a book with the title 'WORLD OF WARCRAFT' is visible, with 'SYLWANA' readable below it. The book is not yet close enough for the text to be very clearly read.",
+            "Bookshelf in clear view at close to medium distance. On the right side of the bottom shelf, the book 'World of Warcraft SYLWANA' is visible, but not yet close enough for the text to be very clearly read.",
+            "The book 'World of Warcraft SYLWANA' is seen on the right side of the bottom shelf. The book is now in closer view, but still not at the closest possible distance for reading fine details of the cover.",
+            "The target book 'World of Warcraft SYLWANA' is not visible in this image. Only wooden furniture and some books on the upper left are partially visible, but not the target book. The book should be on the right side of the shelf, which is out of view.",
+            "Image shows a close-up view of wooden furniture with drawers. No books are visible, and the area on the right (where the target is supposed to be) is still out of frame.",
+            "The image shows a door, part of a wooden piece of furniture on the left, a wall socket, and the floor. There are no books visible. The area to the right may have more content that is currently out of frame."
+        ],
+        "steps": 20,
+        "time": "183.36s",
+        "found": false
+    },
+    {
+        "actions": [
+            "l",
+            "f",
+            "f",
+            "f",
+            "f",
+            "f",
+            "b",
+            "r",
+            "f",
+            "r",
+            "b",
+            "l",
+            "b",
+            "b",
+            "f",
+            "l",
+            "b",
+            "f",
+            "b",
+            "b"
+        ],
+        "responsess": [
+            "A cabinet is visible on the left, a wooden door is in the center background, and part of a chair is on the right. No books are visible in this image.",
+            "Bookshelves filled with books are visible on the left side of the image. The bottom shelf, second compartment from the left, has a book with 'SYLWANA' visible on its spine. Distance to the bookshelf is moderate, and the target book is readable but not very close.",
+            "Bookshelves visible on the left side with the target book 'SYLWANA' readable on the bottom shelf, second compartment from the left. The book is readable but still not very close. Moving forward will bring the robot closer to the bookshelf.",
+            "Bookshelves visible on the left side with many books on the bottom shelf, but the titles are not very clear yet. The target book 'SYLWANA' is not clearly visible or close enough to read the details. Moving forward will bring the robot closer to the lower bookshelves.",
+            "There are bookshelves visible in the upper left, with books on the lower shelf. The titles are getting closer and some are partially readable, but the book 'World of Warcraft SYLWANA' is not clearly visible yet. The robot is at a low angle, and moving forward should bring it even closer to the shelf where the titles can be better examined.",
+            "Bookshelf visible in the upper left, with several books on a lower shelf. The titles are closer, and some are partially readable. The book 'World of Warcraft SYLWANA' is not clearly visible, but the row of books at the top is approaching readable distance. Moving forward should bring the titles into clear view.",
+            "The image shows a close-up of a wooden surface, possibly a cabinet or drawer front, with a metallic handle partially visible on the right. No books or bookshelf are visible in this image. It seems the view moved too far or away from the bookshelf area.",
+            "Books are visible at the top of the image, placed on a shelf above the wooden drawers. Several book spines are partially visible, but the titles are not readable due to the distance and the angle. To get a better view and read the titles, the robot should move upward or tilt up, but since that is not possible, getting closer to the right side might reveal more of the titles.",
+            "Wooden drawers and a radiator are visible, positioned left and center. No books are visible at this angle and height\u2014the visible section is below the shelf level where books were previously observed.",
+            "Close-up view of wooden drawers and a radiator, with no visible books. This area appears to be below shelf level, indicating that books are likely above or to another side. Based on movement history, turning right or moving back may return to the bookshelf area.",
+            "Close-up view of wooden drawers, handles and part of a wooden door. No books visible and still below the likely shelf area. This suggests the need to change position to return to the area with bookshelves.",
+            "Close-up of wooden drawers and a door, still no books visible. Likely need to turn back towards bookshelves.",
+            "Close-up of wooden drawers and a door, no books visible, likely facing away from bookshelves. Radiator ahead.",
+            "Close-up view of wooden drawers and a radiator; no books or bookshelves visible. The scene suggests the camera is very close to the furniture and facing away from bookshelves.",
+            "Books are partially visible on the upper left side atop a wooden chest of drawers. Titles and details are not clearly readable from this angle or distance. The target book might be among them.",
+            "View is focused on the lower part of a wooden chest of drawers and a heater/radiator. Books that were previously noted as being on the upper left side atop the drawers are not visible from this angle. Camera is too low and too close to the furniture. Books are likely above viewpoint to the left.",
+            "The camera is focused on a close-up of the lower part of a wooden chest of drawers. No books are visible and the camera is too close to the furniture, likely positioned below where books might be located.",
+            "Books are visible on top of a chest of drawers, but the angle is too low to read the titles. Some colorful book spines are partially visible, but not clearly enough to identify the target book.",
+            "View is too close to the wooden surface of the chest of drawers, no books are visible. Need to reorient view upwards or step back for better visibility.",
+            "Top row of books is partially visible above the wooden chest of drawers. Book titles are mostly obscured and unreadable from this angle; need a clearer, more direct view of the book spines for identification."
+        ],
+        "steps": 20,
+        "time": "177.28s",
+        "found": false
+    },
+    {
+        "actions": [
+            "l",
+            "f",
+            "f",
+            "fl",
+            "l",
+            "finish"
+        ],
+        "responsess": [
+            "I see a wooden floor, a dresser on the left, a wooden door in the background, and part of a chair on the right. No books are visible in this image.",
+            "I see a bookshelf filled with many books, some titles are visible but most are not readable from this distance. The book spines are facing towards me, primarily on the left side. This seems like a promising location to search for the target book.",
+            "I see several bookshelves with many books. On the middle shelf, left section, there is a book spine that appears to say 'SYLWANA' which likely matches the target book 'World of Warcraft SYLWANA'. It looks partially readable but is not extremely close or centered yet.",
+            "The bookshelf with the book spines is on the left side of the image. 'SYLWANA' is visible on the left-middle shelf, but it is partially readable and still not extremely close or perfectly centered. The camera is low and slightly to the right of the shelf, near the bottom drawers. To get closer and better centered to the target book, a front-left or left move is likely optimal.",
+            "This image shows the area under a desk, focusing on a gaming PC with RGB lighting and a chair leg. There are no books visible in this scene, and this location does not contain the target 'World of Warcraft SYLWANA' book.",
+            "The book 'World of Warcraft SYLWANA' is clearly visible and readable on the floor near a table with a yellow bag underneath. The camera is very close to the book, and the title is easily distinguished."
+        ],
+        "steps": 6,
+        "time": "52.9s",
+        "found": true
+    },
+    {
+        "actions": [
+            "l",
+            "f",
+            "f",
+            "finish"
+        ],
+        "responsess": [
+            "I see a door ahead, a piece of furniture on the left, and part of an office chair on the right. No books are visible in this image.",
+            "I see a bookshelf ahead, filled with numerous books. The titles are visible but still a bit far and not easily readable. No book with the title 'World of Warcraft SYLWANA' is clearly identified yet. Getting closer to the books would help with identification.",
+            "I see a bookshelf directly ahead, lower shelves with two rows of visible spines. The book titles are becoming clearer but are still somewhat small and not fully readable. The book 'World of Warcraft SYLWANA' is not yet identifiable from this distance or angle.",
+            "The bookshelf is directly ahead. On the right-side shelf, the spine of 'World of Warcraft SYLWANA' is visible, second from the left in the row of books with mostly blue and colorful covers. I am very close to the target book and the title is clearly readable."
+        ],
+        "steps": 4,
+        "time": "40.87s",
+        "found": true
+    },
+    {
+        "actions": [
+            "l",
+            "finish"
+        ],
+        "responsess": [
+            "I see a wooden cabinet on the left, a wooden door in the center background, part of a chair on the right, and a coat or jacket hanging above the chair. The floor is clear, and there are no books visible in this view.",
+            "I see a bookshelf ahead with multiple rows of books. On the bottom shelf, center right, there is a book with the title 'SYLWANA' clearly visible. The book is very close and readable."
+        ],
+        "steps": 2,
+        "time": "18.04s",
+        "found": true
+    },
+    {
+        "actions": [
+            "l",
+            "f",
+            "finish"
+        ],
+        "responsess": [
+            "I see a wooden floor, a chair with visible wheels, a wooden door in the background, and a piece of furniture on the left. There are no visible books or bookshelves in the image.",
+            "I see a bookshelf ahead, filled with books arranged horizontally and vertically. There are also wooden drawers below the shelves. Some book spines are visible, but the titles are not clearly readable from this distance and angle.",
+            "I see a bookshelf with multiple brightly colored books. On the rightmost section of the middle shelf, there is a book with the visible title 'SYLWANA' matching 'World of Warcraft SYLWANA'. The book is clearly readable and very close."
+        ],
+        "steps": 3,
+        "time": "25.06s",
+        "found": true
+    }
+]

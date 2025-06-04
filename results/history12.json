@@ -1,0 +1,402 @@
+[
+    {
+        "actions": [
+            "r",
+            "f",
+            "fl",
+            "r",
+            "b",
+            "l",
+            "f",
+            "l",
+            "f",
+            "fr",
+            "b",
+            "fr",
+            "l",
+            "fr",
+            "fl",
+            "r",
+            "l",
+            "fl",
+            "f",
+            "r"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "l",
+            "f",
+            "r",
+            "b",
+            "r",
+            "f",
+            "r",
+            "fl",
+            "r",
+            "b",
+            "fl",
+            "r",
+            "f",
+            "fr",
+            "l",
+            "r",
+            "f",
+            "l",
+            "b",
+            "r"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "fl",
+            "f",
+            "f",
+            "r",
+            "f",
+            "l",
+            "r",
+            "f",
+            "b",
+            "f",
+            "b",
+            "f",
+            "b",
+            "f",
+            "b",
+            "f",
+            "b",
+            "f",
+            "b",
+            "r"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "l",
+            "fl",
+            "b",
+            "b",
+            "f",
+            "r",
+            "f",
+            "r",
+            "l",
+            "f",
+            "fl",
+            "b",
+            "l",
+            "f",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "r",
+            "r",
+            "f",
+            "b",
+            "r",
+            "l",
+            "b",
+            "b",
+            "fr",
+            "b",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "f",
+            "l",
+            "f",
+            "l",
+            "r",
+            "fr",
+            "b",
+            "r",
+            "b",
+            "b",
+            "r",
+            "f",
+            "f",
+            "f",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "l",
+            "r",
+            "b",
+            "f",
+            "r",
+            "f",
+            "r",
+            "fl",
+            "b",
+            "fr",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "f",
+            "l",
+            "f",
+            "fl",
+            "fl",
+            "f",
+            "l",
+            "r",
+            "l",
+            "r",
+            "b",
+            "b",
+            "b",
+            "b",
+            "b",
+            "f",
+            "r",
+            "f",
+            "f",
+            "f"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "b",
+            "f",
+            "l",
+            "fl",
+            "fl",
+            "f",
+            "l",
+            "f",
+            "f",
+            "r",
+            "r",
+            "r",
+            "b",
+            "fl",
+            "fr",
+            "l",
+            "fl",
+            "fl",
+            "fl",
+            "l"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "fl",
+            "f",
+            "r",
+            "f",
+            "l",
+            "fr",
+            "f",
+            "f",
+            "b",
+            "f",
+            "b",
+            "r",
+            "r",
+            "f",
+            "fl",
+            "r",
+            "fl",
+            "l",
+            "l",
+            "fr"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "l",
+            "f",
+            "fl",
+            "fl",
+            "f",
+            "b",
+            "l",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "l",
+            "f",
+            "r",
+            "l",
+            "f",
+            "r",
+            "l",
+            "l",
+            "l",
+            "l",
+            "f",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "fl",
+            "f",
+            "l",
+            "f",
+            "r",
+            "r",
+            "r",
+            "r",
+            "r",
+            "l",
+            "f",
+            "b",
+            "f",
+            "r",
+            "r",
+            "fl",
+            "b",
+            "f",
+            "b",
+            "f"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "r",
+            "r",
+            "b",
+            "r",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "f",
+            "l",
+            "f",
+            "l",
+            "r",
+            "f",
+            "l",
+            "l",
+            "b",
+            "r",
+            "f",
+            "f",
+            "b",
+            "l",
+            "l",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "f",
+            "r",
+            "fl",
+            "b",
+            "l",
+            "f",
+            "r",
+            "fl",
+            "fl",
+            "f",
+            "f",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "fl",
+            "f",
+            "r",
+            "fl",
+            "b",
+            "f",
+            "b",
+            "b",
+            "l",
+            "b",
+            "b",
+            "r",
+            "f",
+            "r",
+            "r",
+            "l",
+            "r",
+            "f",
+            "f",
+            "b"
+        ],
+        "found": false
+    },
+    {
+        "actions": [
+            "r",
+            "l",
+            "r",
+            "r",
+            "f",
+            "fl",
+            "fl",
+            "f",
+            "fr",
+            "f",
+            "fl",
+            "b",
+            "f",
+            "b",
+            "r",
+            "r",
+            "f",
+            "l",
+            "b",
+            "finish"
+        ],
+        "found": true
+    },
+    {
+        "actions": [
+            "f",
+            "f",
+            "l",
+            "l",
+            "r",
+            "l",
+            "f",
+            "b",
+            "f",
+            "r",
+            "fl",
+            "l",
+            "l",
+            "f",
+            "f",
+            "b",
+            "fl",
+            "fl",
+            "l",
+            "f"
+        ],
+        "found": false
+    }
+]
